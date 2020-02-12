@@ -1,7 +1,7 @@
 /**
  * 
  * Generic classes and functions increase code reusability by encapsulating common logic that is independent of a particular  
- *  generic type, like the logic inside a List<T> is independent of what T is.
+ *  generic type, like the logic inside a List<T> is independent of what T is
  */
 class Person(var name: String, var age: Int)
 class MutableStack<E>(vararg items: E){
