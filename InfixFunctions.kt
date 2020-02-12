@@ -1,4 +1,4 @@
-infix functions
+//infix functions
 class Person{
     public var name: String
     get() = field
