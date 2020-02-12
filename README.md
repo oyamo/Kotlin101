@@ -14,3 +14,12 @@ It has a wide range of Uses eg
 * Server Side Programming
 * Crossplatform(Android/IOS) Programming
 * Data Science
+
+Below is a hello world snippet in Kotlin
+```kotlin
+//This is a simple kotlin code
+package com.oyamoh_brian.Kotlin101
+fun main(args: Array<String>){
+  println("Hello World")
+ }
+ ```
