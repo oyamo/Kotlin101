@@ -14,6 +14,7 @@ It has a wide range of Uses eg
 * Server Side Programming
 * Crossplatform(Android/IOS) Programming
 * Data Science
+* Embedded programming
 
 Below is a hello world snippet in Kotlin
 ```kotlin
